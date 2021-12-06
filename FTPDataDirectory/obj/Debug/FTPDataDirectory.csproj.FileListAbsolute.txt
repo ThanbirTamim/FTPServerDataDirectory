@@ -1,0 +1,16 @@
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\FTPDataDirectory.exe.config
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\FTPDataDirectory.exe
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\FTPDataDirectory.pdb
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\BetterFolderBrowser.dll
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\BetterFolderBrowser.xml
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.Form1.resources
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.Name.resources
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.Properties.Resources.resources
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.csproj.GenerateResource.cache
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.csproj.CoreCompileInputs.cache
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.csproj.CopyComplete
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.exe
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.pdb
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\FluentFTP.dll
+D:\FTPDataDirectory\FTPDataDirectory\bin\Debug\FluentFTP.xml
+D:\FTPDataDirectory\FTPDataDirectory\obj\Debug\FTPDataDirectory.csproj.AssemblyReference.cache
